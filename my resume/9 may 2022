@@ -18,7 +18,7 @@
     <h2>My Works:</h2>
     <ul><h3>
         <li><a target="_blank" href="https://www.youtube.com/watch?v=eTSlXBqSXtM&list=PLiMy7UI6zQWKKl2S7PidgONcy9RkFHu4d&index=7&pp=gAQBiAQB"> <i>Project1</i></a></li>
-        <li><a href="https://www.youtube.com/watch?v=eTSlXBqSXtM&list=PLiMy7UI6zQWKKl2S7PidgONcy9RkFHu4d&index=7&pp=gAQBiAQB "target="_blank"> <i>Project2</i></a></li>
+        <li><a href="https://www.youtube.com/watch?v=j804EUIR4HY&list=LL&index=25&pp=gAQBiAQB" target="_blank"> <i>Project2</i></a></li>
         <li><a href="https://youtu.be/zpDGJEH-4FM?list=RDzpDGJEH-4FM&t=4" target="_blank"><i>Project3</i> </a></li>
         <li><a href="https://youtu.be/Kn0z35E5Z34>project4" target="_blank"><i>Project4</i></a> </a></li>
     </h3></ul><hr> <hr>
@@ -41,11 +41,11 @@
 
 <h2>Languages Known:</h2>
 <ol><h3>
-    <li>English <br><img src="../70.png" height="150"</li>
+    <li>English <br><img src="../70.png" height="150" alt="70%green loading bar"> </li>
     <hr>
-    <li>Hindi</li> <img src="../90.jpg" height=""> <hr>
-    <li>Urdu <br><img src="../80-loading-progress-bar-infographics-260nw-2144250809.webp" height="110"></li><hr>
-    <li>Arabic <br><img src="../images.jpg"></li><hr>
+    <li>Hindi</li> <img src="../90.jpg" alt="90% greenloading bar" height=""> <hr>
+    <li>Urdu <br><img src="../80-loading-progress-bar-infographics-260nw-2144250809.webp" alt="80% green loading bar" height="110"></li><hr>
+    <li>Arabic <br><img src="../images.jpg" alt="30% green loading bar"> </li><hr>
     <li>French<h5>low</h5></li><hr><hr>
 </h3></ol>
 <h2>Contact Details:</h2>
