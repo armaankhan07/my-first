@@ -15,7 +15,7 @@
         background-color: rgb(248, 243, 245);   
      }
      
-     img {border: 10px solid  black;
+     div > img {border: 10px solid  black;
           float: right;  
     
     }
