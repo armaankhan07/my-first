@@ -1,36 +1,81 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" >
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Adil's Resume</title>
     <style> p {text-align: center} 
-    ;</style>
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Mukta:wght@500&display=swap" rel="stylesheet">
+
+    body {
+        background-color: rgb(248, 243, 245);   
+     }
+     
+     img {border: 10px solid  black;
+          float: right;  
+    
+    }
+    
+    html {
+        font-size:x-large;
+        font-family: 'Mukta', sans-serif;;
+          
+    }
+    .minheading {
+        display:  inline-block;
+    background-color:burlywood;
+    color:red;  
+    font-size:2rem 
+    }
+    div {
+        border-style: dashed;
+        font-size: 1.15rem;
+    }
+    ul > li  {
+        font-size:1.3rem;
+        font-weight:800;
+        font-family: 'Mukta', sans-serif;;
+    }
+    ul > h3 li  {
+        font-size:1.2rem;
+        font-weight: 800;
+    }
+    ol > li {
+        font-size: 1.4rem;
+    } 
+    #con {
+        font-size: 1.35rem;
+    }
+    </style>
 </head>
 <body><hr>
+    <div>
     <img src="../IMG_20211003_213454~2.jpg" class="right" height="150" alt="my pic" />
     
-    <h1><b>ADIL IQBAL</h1>
-    <h2><i>fresher undergraduate</i></h2>    
-    <p>ill learn new tags and skills daily and therefore update my website accordingly and currently there isnt much    :).........<b>also i will add my projects now there are few dummy links in my Works</b> </p>
-<hr /> <hr>
-    <h2>My Works:</h2>
+    <h1 class="top"><footer><b>ADIL IQBAL<b></b></footer></h1>
+    <h2 class="top"><i>fresher undergraduate</i></h2>    
+    <p >ill learn new tags and skills daily and therefore update my website accordingly and currently there isnt much    :).........<b>also i will add my projects now there are few dummy links in my Works</b> </p>
+</div><hr /> 
+    <h2 class="minheading" >My Works:</h2>
     <ul><h3>
         <li><a target="_blank" href="https://www.youtube.com/watch?v=eTSlXBqSXtM&list=PLiMy7UI6zQWKKl2S7PidgONcy9RkFHu4d&index=7&pp=gAQBiAQB"> <i>Project1</i></a></li>
         <li><a href="https://www.youtube.com/watch?v=j804EUIR4HY&list=LL&index=25&pp=gAQBiAQB" target="_blank"> <i>Project2</i></a></li>
         <li><a href="https://youtu.be/zpDGJEH-4FM?list=RDzpDGJEH-4FM&t=4" target="_blank"><i>Project3</i> </a></li>
         <li><a href="https://youtu.be/Kn0z35E5Z34>project4" target="_blank"><i>Project4</i></a> </a></li>
     </h3></ul><hr> <hr>
-    <h2>Skills:</h2>
-    <ul><h4>
+    <h2 class="minheading" >Skills:</h2>
+    <ul>
         <li>Web developing</li>
         <li>video editing</li>
         <li> ms office </li>
         <li>lorem ipsum</li>
         <li>sit amet </li>
-    </h4></ul><hr> <hr>
-    <h2>Education:</h2><ul>
+    </ul><hr> <hr>
+    <h2 class="minheading" >Education:</h2><ul>
     <h3><li>matric pass from <a href="https://stjohnsfatehpur.in/#2" target="_blank"><b>St. John's School </a></b></a>, fatehpur, UP 212601<h6><a href="https://www.google.com/maps/place/St.+John's+School+Fatehpur/@25.936936,80.7746166,15z/data=!4m10!1m2!2m1!1sst+johns+school+fatehpur!3m6!1s0x399c9d4b4d19423f:0xb55d18a351dd2b3a!8m2!3d25.936936!4d80.792641!15sChhzdCBqb2hucyBzY2hvb2wgZmF0ZWhwdXKSAQdjb2xsZWdl4AEA!16s%2Fg%2F1twyxyxt" target="_blank"><i>(click here to see location)</i></a></h6></li>
 
     
@@ -39,17 +84,17 @@
 </h3></ul>
 <hr><hr>
 
-<h2>Languages Known:</h2>
-<ol><h3>
+<h2 class="minheading" >Languages Known:</h2>
+<ol>
     <li>English <br><img src="../70.png" height="150" alt="70%green loading bar"> </li>
     <hr>
-    <li>Hindi</li> <img src="../90.jpg" alt="90% greenloading bar" height=""> <hr>
+    <li>Hindi</li> <img src="../90.jpg" alt="90% greenloading bar"  height=""> <hr>
     <li>Urdu <br><img src="../80-loading-progress-bar-infographics-260nw-2144250809.webp" alt="80% green loading bar" height="110"></li><hr>
     <li>Arabic <br><img src="../images.jpg" alt="30% green loading bar"> </li><hr>
     <li>French<h5>low</h5></li><hr><hr>
-</h3></ol>
-<h2>Contact Details:</h2>
-<h3>
+</ol>
+<h2 class="minheading" >Contact Details:</h2>
+<h3 id="con">
     Phone:<a href="tel:+918423448475" target="_blank">   +91 8423448475</a> <br>
 
     Email:<a href="mailto:iamarmaankhan07@gmail.com" target="_blank"> iamarmaankhan07@gmail.com</a> <br>
@@ -60,7 +105,7 @@
 
 
 </h3> <hr>
-<h2> <b><a href=lipsum.com target="_blank">references(link yet to update) </a></b>
+<h2 class="minheading"> <b><a href=lipsum.com target="_blank">references(link yet to update) </a></b>
 
 
 
